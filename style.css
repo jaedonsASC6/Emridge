@@ -43,3 +43,15 @@ body{
 .noCenterUL{
   text-align: left;
 }
+.submitButton{ 
+  background-color: #010079;
+  border-radius: 25px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  margin-top: 1%;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
